@@ -14,7 +14,7 @@ Available Commands:
   upload      Upload files to azure storage
 
 Flags:
-  -a, --account string     Azure Storage Acount Name. (default "oasisfile")
+  -a, --account string     Azure Storage Acount Name. 
       --config string      config file (default is $HOME/.azurefs.yaml)
   -c, --container string   Azure Storage Acount Container Name. (default "share")
   -h, --help               help for azurefs
